@@ -1,0 +1,15 @@
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\bin\Debug\net6.0\Example003_sumOfNumbers.exe
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\bin\Debug\net6.0\Example003_sumOfNumbers.deps.json
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\bin\Debug\net6.0\Example003_sumOfNumbers.runtimeconfig.json
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\bin\Debug\net6.0\Example003_sumOfNumbers.dll
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\bin\Debug\net6.0\Example003_sumOfNumbers.pdb
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\obj\Debug\net6.0\Example003_sumOfNumbers.csproj.AssemblyReference.cache
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\obj\Debug\net6.0\Example003_sumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\obj\Debug\net6.0\Example003_sumOfNumbers.AssemblyInfoInputs.cache
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\obj\Debug\net6.0\Example003_sumOfNumbers.AssemblyInfo.cs
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\obj\Debug\net6.0\Example003_sumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\obj\Debug\net6.0\Example003_sumOfNumbers.dll
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\obj\Debug\net6.0\refint\Example003_sumOfNumbers.dll
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\obj\Debug\net6.0\Example003_sumOfNumbers.pdb
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\obj\Debug\net6.0\Example003_sumOfNumbers.genruntimeconfig.cache
+C:\Users\79159\Desktop\examples\Example003_sumOfNumbers\obj\Debug\net6.0\ref\Example003_sumOfNumbers.dll
